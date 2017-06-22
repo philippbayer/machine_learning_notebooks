@@ -1,0 +1,3 @@
+There are various Jupyter notebooks here that I present or use for the Perth Machine Learning Group (http://pmlg.org/)
+
+The Cats/dogs/redux name comes from the Kaggle competition...
